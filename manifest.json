@@ -1,0 +1,11 @@
+{
+	"name": "minful-minutes",
+	"version": "1.0",
+	"description": "Take a breath with Mindful Minutes, your Chrome companion for focused work and mindful breaks.",
+
+	"manifest_version": 3,
+
+	"action": {
+		"default_popup": "src/popup/popup.html"
+	}
+}
